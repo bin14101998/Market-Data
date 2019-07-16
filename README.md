@@ -1,4 +1,4 @@
-# MarketData
+# Market Data
 A Chainlink node serving crypto, forex, and stock market data
 
 ### How to create requests to this node

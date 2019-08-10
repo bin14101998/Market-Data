@@ -1,6 +1,6 @@
 name: Market Data Alpha Vantage
 description: Adapter that connects Chainlink nodes to the Alpha Vantage API
-node_identifier: mdalphavantage
+node_identifier: Blue Oracle
 platforms:
   - Docker
   - AWS Lambda, Google Cloud Compute
